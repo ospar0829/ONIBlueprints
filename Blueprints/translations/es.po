@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included: Blueprints\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-12 13:55+0900\n"
+"PO-Revision-Date: 2021-05-12 15:14+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: Blueprints\n"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_NAME"
+msgid "New Blueprint"
+msgstr "Nuevo plano"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_TOOLTIP"
+msgid "Create blueprint {0}"
+msgstr "Crear plano {0}"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_EMPTY"
+msgid "Blueprint would have been empty!"
+msgstr "¡El plano estaría vacío!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_CREATED"
+msgid "Created blueprint!"
+msgstr "¡Plano creado!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_CANCELLED"
+msgid "Cancelled blueprint!"
+msgstr "¡Plano cancelado!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_TOOLTIP_TITLE"
+msgid "CREATE BLUEPRINT TOOL"
+msgstr "HERRAMIENTA DE CREACIÓN DE PLANOS"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_ACTION_DRAG"
+msgid "DRAG"
+msgstr "ARRASTRAR"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_ACTION_BACK"
+msgid "BACK"
+msgstr "ATRÁS"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_NAME"
+msgid "Use Blueprint"
+msgstr "Usar plano"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP"
+msgid "Use blueprint {0}"
+msgstr "Usar plano {0}"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS"
+msgid "Loaded {0} blueprints! ({1} total)"
+msgstr "¡{0} planos cargados! ({1} en total)"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS_ADDITIONAL"
+msgid "additional"
+msgstr "adicional"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS_FEWER"
+msgid "fewer"
+msgstr "menos"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP_TITLE"
+msgid "USE BLUEPRINT TOOL"
+msgstr "HERRAMIENTA DE USO DE PLANOS"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_ACTION_CLICK"
+msgid "CLICK"
+msgstr "CLIC"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_ACTION_BACK"
+msgid "BACK"
+msgstr "ATRÁS"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_CYCLEFOLDERS"
+msgid "Use {0} and {1} to cycle folders."
+msgstr "Usa {0} y {1} para cambiar de carpeta."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_CYCLEBLUEPRINTS"
+msgid "Use {0} and {1} to cycle blueprints."
+msgstr "Usa {0} y {1} para cambiar de plano."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_FOLDERBLUEPRINT"
+msgid "Press {0} to assign folder."
+msgstr "Presiona {0} para asignar carpeta."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_FOLDERBLUEPRINT_NA"
+msgid "Same folder provided - no change made."
+msgstr "Se proporcionó la misma carpeta, no se realizó ningún cambio."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_MOVEDBLUEPRINT"
+msgid "Moved \"{0}\" to \"{1}\""
+msgstr "Se movió \"{0}\" a \"{1}\""
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_NAMEBLUEPRINT"
+msgid "Press {0} to rename blueprint."
+msgstr "Presiona {0} para renombrar el plano."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_DELETEBLUEPRINT"
+msgid "Press {0} to delete blueprint."
+msgstr "Presiona {0} para eliminar el plano."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_ERRORMESSAGE"
+msgid "This blueprint contained {0} misconfigured or missing prefabs which have been omitted!"
+msgstr "Este plano contenía {0} prefabricados mal configurados o faltantes que se omitieron."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_SELECTEDBLUEPRINT"
+msgid "Selected \"{0}\" ({1}/{2}) from \"{3}\" ({4}/{5})"
+msgstr "Seleccionado \"{0}\" ({1}/{2}) de \"{3}\" ({4}/{5})"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_FOLDEREMPTY"
+msgid "Selected folder \"{0}\" is empty!"
+msgstr "¡La carpeta seleccionada \"{0}\" está vacía!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_NOBLUEPRINTS"
+msgid "No blueprints loaded!"
+msgstr "¡No se cargaron planos!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_NAME"
+msgid "Take Snapshot"
+msgstr "Tomar captura"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_TOOLTIP"
+msgid "Take snapshot {0} \n\nCreate a blueprint and quickly place it elsewhere while not cluttering your blueprint collection! \nSnapshots do not persist between games or worlds."
+msgstr "Toma una captura {0} \n\nCrea un plano y colócalo rápidamente en otro lugar sin saturar tu colección de planos. \n¡Las capturas no persisten entre juegos o mundos!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_EMPTY"
+msgid "Snapshot would have been empty!"
+msgstr "¡La captura estaría vacía!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_TAKEN"
+msgid "Snapshot taken!"
+msgstr "¡Captura tomada!"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_TOOLTIP_TITLE"
+msgid "SNAPSHOT TOOL"
+msgstr "HERRAMIENTA DE CAPTURA"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_ACTION_CLICK"
+msgid "CLICK"
+msgstr "CLIC"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_ACTION_DRAG"
+msgid "DRAG"
+msgstr "ARRASTRAR"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_ACTION_BACK"
+msgid "BACK"
+msgstr "ATRÁS"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_SNAPSHOT_NEWSNAPSHOT"
+msgid "Press {0} to take new snapshot."
+msgstr "Presiona {0} para tomar una nueva captura."
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_NAMEBLUEPRINT_TITLE"
+msgid "NAME BLUEPRINT"
+msgstr "NOMBRE DEL PLANO"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_FOLDERBLUEPRINT_TITLE"
+msgid "ASSIGN FOLDER"
+msgstr "ASIGNAR CARPETA"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_MULTIFILTER_GASTILES"
+msgid "Gas Tiles"
+msgstr "Baldosas de gas"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_MULTIFILTER_ALL"
+msgid "All"
+msgstr "Todo"
+
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_MULTIFILTER_NONE"
+msgid "None"
+msgstr "Ninguno"
